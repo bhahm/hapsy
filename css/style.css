@@ -1425,3 +1425,10 @@
 			body.touch .poptrox-popup .closer {
 				opacity: 1.0 !important;
 			}
+
+.mainsignupbutton{
+	display: block;
+	color: white;
+        border-radius: 4px;
+       text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+       background: #61B329;}
